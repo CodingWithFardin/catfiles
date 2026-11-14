@@ -8,8 +8,7 @@ python catfiles.py src --fence
 
 ## layout
 
-- `catfiles.py`
-- `tests/test_catfiles.py`  — tests
+- `tests/test_catfiles.py` - tests for the module next to it
 
 ## how to run
 
